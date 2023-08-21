@@ -6,7 +6,9 @@ different aspects of data analysis, feature engineering, model building, and dep
 
 # Table of Contents
 * Project 1: House Price Prediction
-* Project 2: Heart Attack Prediction
+* Project 2: Heart Attack 
+* Project 3: Brain Tumor Classification and Segmentation
+* Project 4: Image Captioning
 
 # About the Repository
 In this repository, you will find a diverse range of machine learning projects that highlight my skills, 
